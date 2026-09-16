@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.output/
+.tanstack/
+.wrangler/
+.vite/
+
+# Secrets — NEVER commit these. sync-notion.mjs reads them from process.env only.
+.env
+.env.local
+.env.*.local
+
+# OS / editor
+.DS_Store
+*.log
