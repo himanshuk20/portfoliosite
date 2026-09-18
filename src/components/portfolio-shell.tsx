@@ -54,7 +54,7 @@ export function PortfolioShell({ children }: { children: ReactNode }) {
         <div className="sidebar-bottom">
           <div className="socials">
             <a href="https://www.linkedin.com/in/himanshu-giri-179516259/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><Linkedin size={20}/></a>
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><Github size={20}/></a>
+            <a href="https://github.com/himanshuk20" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><Github size={20}/></a>
             <a href="https://x.com/Himanshu29g" target="_blank" rel="noopener noreferrer" aria-label="X"><Twitter size={20}/></a>
             <a href="mailto:himanshugiri0829@gmail.com" aria-label="Email"><Mail size={20}/></a>
           </div>
