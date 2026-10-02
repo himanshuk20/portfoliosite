@@ -22,9 +22,3 @@ The portfolio includes:
 - Professional experience
 - Resume and contact information
 
-## Development
-
-Install dependencies:
-
-```bash
-npm install
